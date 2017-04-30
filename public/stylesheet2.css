@@ -1,0 +1,29 @@
+.container{
+    
+}
+
+.image-parent{
+    margin-top:500px;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    width:100%;
+    justify-content:space-around;
+    align-items:center;
+}
+
+.one{
+    width:25%;
+    height:25%;
+}
+
+.three{
+    width:25%;
+    height:25%;
+}
+
+.four{
+    width:25%;
+    height:25%;
+}
+

@@ -1,0 +1,173 @@
+*{
+    margin:0;
+}
+
+.container{
+    width:960px;
+}
+
+.image{
+     width:1200px;
+     margin-top:100px;
+     float:right;
+}
+
+.nav-title{
+    left:30px;
+    font-family:"times new roman";
+    font-size:20px;
+    position:fixed;
+    list-style: none;
+    padding-top:40px;
+}
+
+.nav-bar{
+    position:fixed;
+    top:0px;
+    float:right;
+    right:80px;
+}
+
+/*.block-left{*/
+/*    width:1500px;*/
+/*    height:100px;*/
+/*    float:left;*/
+    /*background-color:red;*/
+/*}*/
+
+.designer, .work, .contact {
+    font-family:"Myriad pro";
+    font-size:17px;
+    width:125px;
+    float:left;
+    padding-top:40px;
+    text-align:center;
+    color:#5D5D5D;
+    list-style: none;
+}
+
+.title{
+    position:absolute;
+    font-family:"Times New Roman";
+    /*font-style:italic;*/
+    text-align:right;
+    top:400px;
+    right:100px;
+    color:white;
+}
+
+.introduction{
+    margin-top:20px;    
+}
+
+.main-title-1,.main-title-2{
+    font-size:70px;
+}
+
+.sub-title{
+    font-size:22px;
+}
+
+.parent{
+    position:relative;
+    height:100%;
+}
+
+.call{
+    /*background-color:blue;*/
+    border-top:2px solid #b8b6b6;
+    border-bottom:2px solid #b8b6b6;
+    text-align:center;
+    width:80px;
+    margin:0 auto;
+    padding-top:20px;
+    padding-bottom:20px; 
+    background-size:100px 20px;
+}
+.phone{
+    margin-top:20px;
+    /*background-color:green;*/
+    background-position:center;
+    text-align:center;
+    height:100px;
+}
+
+.i{
+    top:500px;
+    width:800px;
+    /*margin-left:30px;*/
+}
+
+.image-parent{
+    margin-top:500px;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    width:100%;
+    justify-content:space-around;
+    align-items:center;
+    
+}
+.one{
+    width:25%;
+    height:25%;
+}
+.three{
+    width:25%;
+    height:25%;
+}
+.four{
+    width:25%;
+    height:25%;
+}
+
+
+/*.skill,.skill-1{*/
+/*    float:left;*/
+/*}*/
+
+
+
+
+/*.skill{*/
+/*    font-family:"Times New Roman";*/
+/*    font-size:20px;*/
+/*    font-style:bold;*/
+/*    width:200px;*/
+/*    text-align:center;*/
+/*}*/
+
+/*.skill-1{*/
+/*    font-family:"Myriad pro";*/
+/*    font-size:15px;*/
+/*    position:static;*/
+/*    width:100px;*/
+/*    height:100px;*/
+/*    text-align:center;*/
+/*    padding-top:25px;*/
+/*    background-color:red;*/
+/*}*/
+
+.contact-2{
+    position:absolute;
+    top:2000px;
+    bottom:0;
+    right:0;
+    left:0;
+}
+
+
+/*.icon{*/
+/*    width:8px;*/
+/*}*/
+
+
+/*.back{*/
+/*    position:absolute;*/
+/*    margin-top:0;*/
+/*    margin-right:0;*/
+/*    width:1200px;*/
+/*    height:400px;*/
+/*    background-color:#b8b6b6;*/
+/*    z-index:-100;*/
+/*}*/
